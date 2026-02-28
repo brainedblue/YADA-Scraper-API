@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+curl_cffi
+playwright
+playwright-stealth
+beautifulsoup4
+lxml
+python-dotenv
+fake_useragent
+pytest
+pytest-asyncio
